@@ -44,19 +44,17 @@ pip install -r requirements.txt
 
 ## Test with Pretrained Model
 Within ```./CaricatureFace``` directory, run following command:
-
-    ```bash
+ ```bash
     bash test.sh
-    ```
+```
 
-Note: Input images must be preprocessed- crop the whole face roughly and resize to size (224, 224).
+Note: Input images must be preprocessed - crop the whole face roughly and resize to size (224, 224).
 
 ## Train
 Firstly, prepare a training set. Then within ```./CaricatureFace``` directory, run following command:
-
-    ```bash
+ ```bash
     python train.py --no_premodel
-    ```
+```
 
 ## Citation
 If you find this useful for your research, please cite the following paper.

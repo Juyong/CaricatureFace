@@ -1,0 +1,1 @@
+This folder contains testset and training set.
