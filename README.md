@@ -1,7 +1,7 @@
 # CaricatureFace
 The source code and pretrained model for paper "Landmark Detection and 3D Face Reconstruction for Caricature using a Nonlinear Parametric Model".
 
-![aug](fig/examples.png)
+![examples](fig/examples.png)
 
 ## Update Logs:
 ### April 8, 2020

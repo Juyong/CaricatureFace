@@ -1,1 +1,1 @@
-This folder contains testset and training set.
+This folder is used to contain testset and training set.
