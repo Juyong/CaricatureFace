@@ -35,7 +35,7 @@ pip install -r requirements.txt
 - Unzip downloaded files and move files into ```./data``` directory.
 
 **Prepare pretrained model:**
-- You can download pretrained model (train on 6,240 224px images) here [Google Drive](https://drive.google.com/open?id=1If_rjQp5mDZMbK1-STGYOPyw_cTG66jO), or [Baidu Drive](https://pan.baidu.com/s/113QFM-zhSUIZfzjFhQfTTA) with password: fukf.
+- You can download pretrained model here [Google Drive](https://drive.google.com/open?id=1If_rjQp5mDZMbK1-STGYOPyw_cTG66jO), or [Baidu Drive](https://pan.baidu.com/s/113QFM-zhSUIZfzjFhQfTTA) with password: fukf.
 - Unzip downloaded files and move files into ```./model``` directory.
 
 **Prepare some examples:**
