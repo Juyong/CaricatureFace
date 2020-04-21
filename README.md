@@ -57,4 +57,4 @@ Firstly, prepare a training set. Then within ```./CaricatureFace``` directory, r
 ```
 
 ## Citation
-If you find this useful for your research, please cite the following paper.
+If you find this useful for your research, please cite the paper.
