@@ -1,15 +1,17 @@
 # CaricatureFace
-This repository includes the source code and pretrained model of paper "Landmark Detection and 3D Face Reconstruction for Caricature using a Nonlinear Parametric Model", [http://arxiv.org/abs/2004.09190](http://arxiv.org/abs/2004.09190).
+This repository includes source code, pretrained model and a testset of paper "Landmark Detection and 3D Face Reconstruction for Caricature using a Nonlinear Parametric Model", [http://arxiv.org/abs/2004.09190](http://arxiv.org/abs/2004.09190).
 
 ![examples](fig/examples.png)
 
 ## Update Logs:
+### April 22, 2020
+* The testset are enlarged.
 ### April 8, 2020
 * The source code, pretrained model and some data from testset are released.
 
 
 ## Comparison with us
-If you want to do some comparison with our method, you can download 100 data selected from testset here [Google Drive](https://drive.google.com/open?id=1jaK6G67dBPoZpRlTh0PwmpPMA7dh9lYx), or [Baidu Drive](https://pan.baidu.com/s/1X8yiOiFNu6XoXK1fHBExCg) with password: ma1s. It includes 2D caricatures, 68 landmarks detected by our method and 3D meshes recovered by our method.
+If you want to do some comparison with our method, you can download a testset here [Google Drive](https://drive.google.com/open?id=1fGHlV8ISUkgCK8OSTQxvEJxtxXXrwjDI), or [Baidu Drive](https://pan.baidu.com/s/1YhniT8yb6C5yvO9gq_YYoA) with password: 4nvs. It includes 2D caricatures, groundtruth 68 landmarks, 68 landmarks detected by our method and 3D meshes recovered by our method.
 
 ## Prerequisites and Installation
 - Python 3.7
