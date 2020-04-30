@@ -5,7 +5,7 @@ This repository includes source code, pretrained model and a testset of paper "L
 
 ## Update Logs:
 ### April 22, 2020
-* The testset are enlarged.
+* The testset is enlarged.
 ### April 8, 2020
 * The source code, pretrained model and some data from testset are released.
 
