@@ -59,4 +59,17 @@ Firstly, prepare a training set. Then within ```./CaricatureFace``` directory, r
 ```
 
 ## Citation
-If you find this useful for your research, please cite the paper.
+If you find this useful for your research, please cite the paper:
+```
+@article{Zhang2020Caricature,
+  author    = {Juyong Zhang and
+               Hongrui Cai and
+               Yudong Guo and
+               Zhuang Peng},
+  title     = {Landmark Detection and 3D Face Reconstruction for Caricature using
+               a Nonlinear Parametric Model},
+  journal   = {CoRR},
+  volume    = {abs/2004.09190},
+  year      = {2020}
+}
+``` 
