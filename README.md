@@ -66,8 +66,7 @@ If you find this useful for your research, please cite the paper:
                Hongrui Cai and
                Yudong Guo and
                Zhuang Peng},
-  title     = {Landmark Detection and 3D Face Reconstruction for Caricature using
-               a Nonlinear Parametric Model},
+  title     = {Landmark Detection and 3D Face Reconstruction for Caricature using a Nonlinear Parametric Model},
   journal   = {CoRR},
   volume    = {abs/2004.09190},
   year      = {2020}
