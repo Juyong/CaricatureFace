@@ -4,6 +4,8 @@ This repository includes source code, pretrained model and a testset of paper "L
 ![examples](fig/examples.png)
 
 ## Update Logs:
+### May 9, 2020
+* Add a toy example for conversion between 3D face and vertices.
 ### April 22, 2020
 * The testset is enlarged.
 ### April 8, 2020
@@ -57,6 +59,9 @@ Firstly, prepare a training set. Then within ```./CaricatureFace``` directory, r
  ```bash
     python train.py --no_premodel
 ```
+
+## Recover 3D faces
+Please follow README.txt in ```./toy_example``` directory.
 
 ## Citation
 If you find this useful for your research, please cite the paper:
