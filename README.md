@@ -8,6 +8,8 @@ Note that all of the code is protected under patent. It can be only used for res
 ![examples](fig/examples.png)
 
 ## Update Logs:
+### July 20, 2020
+* Add a method for calculating errors.
 ### May 9, 2020
 * Add a toy example for conversion between 3D face and vertices.
 ### April 22, 2020
