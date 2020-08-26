@@ -8,6 +8,8 @@ Note that all of the code is protected under patent. It can be only used for res
 ![examples](fig/examples.png)
 
 ## Update Logs:
+### August 26, 2020
+* Add a method for computing the dynamical contour indices.
 ### July 20, 2020
 * Add a method for calculating errors.
 ### May 9, 2020
@@ -62,6 +64,9 @@ Note: Input images must be preprocessed - crop the whole face roughly and resize
 
 ## Recover 3D faces
 Please follow README.txt in ```./toy_example``` directory.
+
+## Compute the dynamical contour indices
+Please follow README.txt in ```./update_contour``` directory.
 
 ## Citation
 If you find this useful for your research, please cite the paper:
