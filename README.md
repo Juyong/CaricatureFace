@@ -70,6 +70,7 @@ Please follow README.txt in ```./toy_example``` directory.
 ## Compute the dynamical contour indices
 Please follow README.txt in ```./update_contour``` directory.
 
+## Gallery
 ![examples](fig/examples.png)
 
 ## Citation
