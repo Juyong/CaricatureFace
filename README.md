@@ -51,7 +51,7 @@ pip install -r requirements.txt
 - Unzip downloaded files and move files into ```./model``` directory.
 
 **Prepare some examples:**
-- You can download some examples here [Google Drive](https://drive.google.com/open?id=1X8TpVpGzRrQuSS93_Hb32ERU-P4q6SSG), or [Baidu Drive](https://pan.baidu.com/s/18V7Ulq9ZfACtuhpkBJY6-A) with password: unud.
+- You can download some examples here [Google Drive](https://drive.google.com/open?id=1X8TpVpGzRrQuSS93_Hb32ERU-P4q6SSG), or [Baidu Drive](https://pan.baidu.com/s/1fn6Ll3ogF5LrYByBe-T5Ew) with password: sq06.
 - Unzip downloaded files and move files into ```./exp``` directory.
 
 ## Test with Pretrained Model
