@@ -5,9 +5,11 @@ Authors: [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/), Hongrui Cai, Yudong 
 
 Note that all of the code is protected under patent. It can be only used for research purposes. If you are interested in business purposes/for-profit use, please contact Juyong Zhang (the corresponding author, email: juyong@ustc.edu.cn).
 
-![examples](fig/examples.png)
+![examples](fig/examples2.png)
 
 ## Update Logs:
+### December 5, 2020
+* Update the examples and add a figure for exhibition.
 ### August 26, 2020
 * Add a method for computing the dynamical contour indices.
 ### July 20, 2020
@@ -67,6 +69,8 @@ Please follow README.txt in ```./toy_example``` directory.
 
 ## Compute the dynamical contour indices
 Please follow README.txt in ```./update_contour``` directory.
+
+![examples](fig/examples.png)
 
 ## Citation
 If you find this useful for your research, please cite the paper:
