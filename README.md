@@ -8,6 +8,8 @@ Note that all of the code is protected under patent. It can be only used for res
 ![examples](fig/examples2.png)
 
 ## Update Logs:
+### January 3, 2021
+* Make the entire 3D caricature dataset public! And attach the scripts for visualization!
 ### December 5, 2020
 * Update the examples and add a figure for exhibition.
 ### August 26, 2020
@@ -21,6 +23,8 @@ Note that all of the code is protected under patent. It can be only used for res
 ### April 8, 2020
 * The source code, pretrained model and some data from testset are released.
 
+## 3D Caricature Dataset
+You can download the 3D caricature dataset we constructed via [Google Drive](https://drive.google.com/file/d/1M9NVRWpd_L_Cz2yrgEggkpQJ1YV_wBh6/view?usp=sharing), or [Baidu Drive](https://pan.baidu.com/s/14XAd7c5W-sCxnQr5QyMKZw) with password: 0nk6. The 3D caricature dataset contains 7,800 2D caricatures, 2D landmarks and 3D meshes. We also attach the scipts for visualization.
 
 ## Comparison with us
 If you want to do some comparison with our method, you can download a testset here [Google Drive](https://drive.google.com/open?id=1fGHlV8ISUkgCK8OSTQxvEJxtxXXrwjDI), or [Baidu Drive](https://pan.baidu.com/s/1YhniT8yb6C5yvO9gq_YYoA) with password: 4nvs. It includes 2D caricatures, groundtruth 68 landmarks, 68 landmarks detected by our method and 3D meshes recovered by our method.
