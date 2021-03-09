@@ -1,7 +1,7 @@
 # CaricatureFace
-This repository includes source code, pretrained model and a 3D dataset of paper "Landmark Detection and 3D Face Reconstruction for Caricature using a Nonlinear Parametric Model", [http://arxiv.org/abs/2004.09190](http://arxiv.org/abs/2004.09190).
+This repository includes source code, pretrained model and a 3D dataset of paper "Landmark Detection and 3D Face Reconstruction for Caricature using a Nonlinear Parametric Model", *Graphical Models* (2021), [http://arxiv.org/abs/2004.09190](http://arxiv.org/abs/2004.09190).
 
-Authors: [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/), Hongrui Cai, Yudong Guo and Zhuang Peng.
+Authors: Hongrui Cai, Yudong Guo, Zhuang Peng and [Juyong Zhang](http://staff.ustc.edu.cn/~juyong/).
 
 Note that all of the code is protected under patent. It can be only used for research purposes. If you are interested in business purposes/for-profit use, please contact Juyong Zhang (the corresponding author, email: juyong@ustc.edu.cn).
 
