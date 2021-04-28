@@ -8,6 +8,8 @@ Note that all of the code is protected under patent. It can be only used for res
 ![examples](fig/examples2.png)
 
 ## Update Logs:
+### April 28, 2021
+* Add an introduction (.pdf file) for our research work.
 ### January 3, 2021
 * Make the entire 3D caricature dataset public! And attach the scripts for visualization!
 ### December 5, 2020
