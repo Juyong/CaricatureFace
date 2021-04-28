@@ -87,6 +87,7 @@ If you find this useful for your research, please cite the paper:
                Juyong Zhang},
   title     = {Landmark Detection and 3D Face Reconstruction for Caricature using a Nonlinear Parametric Model},
   journal   = {Graphical Models},
+  volume    = {115},
   year      = {2021}
 }
 ``` 
