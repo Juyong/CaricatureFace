@@ -62,7 +62,7 @@ class MyNet(nn.Module):
         torch.nn.init.kaiming_normal_(self.fc1.weight.data)
         torch.nn.init.zeros_(self.fc1.bias.data)
         self.fc2 = nn.Linear(in_features=226, out_features=226, bias=True)
-        torch.nn.init.kaiming_normal_(self.fc1.weight.data)
+        torch.nn.init.kaiming_normal_(self.fc2.weight.data)
         torch.nn.init.zeros_(self.fc2.bias.data)
         self.fc3 = nn.Linear(in_features=226, out_features=vertex_num*9, bias=True)
         self.fc3.weight.data = pca_pri.t()
