@@ -82,14 +82,13 @@ Please follow README.txt in ```./update_contour``` directory.
 ## Citation
 If you find this useful for your research, please cite the paper:
 ```
-@article{Cai2021Caricature,
-  author    = {Hongrui Cai and
-               Yudong Guo and
-               Zhuang Peng and
-               Juyong Zhang},
-  title     = {Landmark Detection and 3D Face Reconstruction for Caricature using a Nonlinear Parametric Model},
-  journal   = {Graphical Models},
-  volume    = {115},
-  year      = {2021}
+@article{cai2021landmark,
+  title={Landmark detection and 3D face reconstruction for caricature using a nonlinear parametric model},
+  author={Cai, Hongrui and Guo, Yudong and Peng, Zhuang and Zhang, Juyong},
+  journal={Graphical Models},
+  volume={115},
+  pages={101103},
+  year={2021},
+  publisher={Elsevier}
 }
 ``` 
